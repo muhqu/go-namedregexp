@@ -1,6 +1,8 @@
 Go NamedRegexp package
 ======================
 
+[![Build Status](https://travis-ci.org/muhqu/go-namedregexp.png?branch=master)](https://travis-ci.org/muhqu/go-namedregexp)
+
 Adds a few methods to aid with working with named group submatches.
 
 ```go
